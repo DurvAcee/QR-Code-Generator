@@ -2,8 +2,8 @@
 
 This project was generated with NodeJS
 
-Install Dependencies
-## npm i inquirer qr-image
+## Install Dependencies
+Run `npm i inquirer qr-image`
 
-Run Project
-## Run - node .\index.js
+## Run Project
+Run `node .\index.js`
