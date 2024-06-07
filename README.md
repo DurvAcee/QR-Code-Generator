@@ -1,4 +1,9 @@
 # QR-Code-Generator
 
-# Install dependencies - npm i inquirer qr-image
-# Run - node .\index.js
+This project was generated with NodeJS
+
+# Install Dependencies
+## npm i inquirer qr-image
+
+# Run Project
+## Run - node .\index.js
